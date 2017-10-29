@@ -9,7 +9,7 @@ A simple collection of snippets and example to show how awesome Node8 is!
 
 ## Node LTS Carbon
 1. Performance Hooks
-2. File copy with the core fs modulei
+2. File copy with the core fs module
 3. http2 support
 
 ## Experimental (But super cool) features
