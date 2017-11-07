@@ -7,7 +7,7 @@ A simple collection of snippets and example to show how awesome Node8 is!
 3. [Async / Await](/Features/3.async-await)
 
 ## Node LTS Carbon
-1. [HTTP2](/LTS/2.http2)
+1. HTTP2
 
 ## Experimental (But super cool) features
 1. ECMAScript Modules in Node.js!
